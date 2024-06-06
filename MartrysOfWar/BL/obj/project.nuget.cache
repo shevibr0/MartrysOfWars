@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yup28Y+GlTB+omvBwdMLyheFy6ust/r1r340U0iVTCJqkxW6YC+H5O72GhS1WdCKHZRtLHB8bbdsMVyY65t//g==",
+  "dgSpecHash": "OYYhn6PvqX0dljwlWkIrrf1OWp10kN8g7uxysvBOYqcMqgDRxM8f6rrty3FkE5rt1ugrhf+X3reHb25wPuiR0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Desktop\\פרויקט סיום\\MartrysOfWar\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\פרויקט חללי ברזל\\MartrysOfWar\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

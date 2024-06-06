@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xiXNOWNhHoQ525Iov1nu6dzHniKPamU1jtUG4nH5WGFOmazTuaXcTK6C1Arf6AXws3BtCiEmAuDehWpaE/xAg==",
+  "dgSpecHash": "6UNetXB6XBtlDHvEZdQU+d5w8GgT1wLbLsV0bTI35UpLss6DlPMiaAUiFPcWfywQNqTF2Fnws4orZyzZ/Ts2fQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Desktop\\פרויקט סיום\\MartrysOfWar\\DL\\DL.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\פרויקט חללי ברזל\\MartrysOfWar\\DL\\DL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

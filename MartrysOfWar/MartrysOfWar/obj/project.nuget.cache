@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wlD5qu79ACDsGnkupNN4RH2xtKR1i/Cbiniijhr7fp1Ay1XaGldGjco2N0Ld7nwPCshvKyUkRDt9gm9gTBlKkw==",
+  "dgSpecHash": "YPLM+WFg7jMMDk2GXNFgGFKWHK69QBTWap8MiGuW43lrXwpLzo+KSeaUUUx8irV4vtTO+GcyedXx4yoCSvJAIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Desktop\\פרויקט סיום\\MartrysOfWar\\MartrysOfWar\\MartrysOfWar.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\פרויקט חללי ברזל\\MartrysOfWar\\MartrysOfWar\\MartrysOfWar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
