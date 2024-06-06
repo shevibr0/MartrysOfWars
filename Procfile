@@ -1,0 +1,1 @@
+web: cd out && exec dotnet MartrysOfWar.dll
